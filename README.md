@@ -5,11 +5,12 @@
    clone https://github.com/sudosenator/joiner
 ```
 
-cd joiner
-chmod +x net
-chmod +x net.sh
-./net install
-./net run
+## cd joiner
+## chmod +x net
+## chmod +x net.sh
+## ./net install
+## ./net run
+
 ( +دقت کنید که شماره را بدون فاصله وارد کنید (برای مثال : 989216973112
 
 .اجرا میشود و این به این معنیست که بعد از بستن سرور ربات شما خاموش نمیشود tmux ربات پس از ساخته شدن و اجرا در حالت
