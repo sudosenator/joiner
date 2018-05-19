@@ -15,16 +15,9 @@ chmod +x net.sh
 .اجرا میشود و این به این معنیست که بعد از بستن سرور ربات شما خاموش نمیشود tmux ربات پس از ساخته شدن و اجرا در حالت
 
 هم اجرا شود `screen` اما پیشنهاد میشود که همزمان بصورت
-screen ./net.sh
 
+## screen ./net.sh
 
-
-## Instruction and commands 
-
-Send  _help_  to see help menu
-
-```
-***
 ## Developers
 ### [Developer](https://t.me/sudo_senator)
 
